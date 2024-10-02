@@ -1,2 +1,3 @@
-# sydney-hospitals-api
-Sydney Hospitals Open Dataset
+# NSW Hospitals
+
+[Data Source](https://data.nsw.gov.au/data/dataset/nsw-hospitals)
